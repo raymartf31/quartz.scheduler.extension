@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.128
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartz.Scheduler.Extension", "Quartz.Scheduler.Extension\Quartz.Scheduler.Extension.csproj", "{6B517836-217D-4968-80D7-A42C048AE433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B517836-217D-4968-80D7-A42C048AE433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B517836-217D-4968-80D7-A42C048AE433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B517836-217D-4968-80D7-A42C048AE433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B517836-217D-4968-80D7-A42C048AE433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2636E61-2FEC-493C-8150-F88635F7272F}
+	EndGlobalSection
+EndGlobal
