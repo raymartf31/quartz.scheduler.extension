@@ -1,6 +1,6 @@
 # quartz.scheduler.extension
 
-This is an extension component for quartz scheduler with C#.
+This is an extension component for <a href="https://www.quartz-scheduler.net/">quartz</a> scheduler with C#.
 
 This component contains 3 major methods:
 
