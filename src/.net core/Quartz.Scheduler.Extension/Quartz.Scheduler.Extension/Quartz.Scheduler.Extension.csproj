@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageReleaseNotes>Improves documentation.</PackageReleaseNotes>
+    <Version>1.0.3</Version>
+    <Description>Provides extension methods for Quartz Scheduler for .Net Core. ScheduleJobWithSpecificTime | ScheduleJobOnNthMinutesOfAnHour | ScheduleJobDailyOnNthHourAndNthMinutes</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/raymartf31/quartz.scheduler.extension/</PackageProjectUrl>
+    <Authors>Mac Flores</Authors>
   </PropertyGroup>
 
   <ItemGroup>
